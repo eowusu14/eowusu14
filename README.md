@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eowusu14
+- 👋 Hi, I’m Emmanuel Owusu
 - 👀 I’m interested in Geospatial Development
 - 🌱 I’m currently learning Leaflet Js
 - 💞️ I’m looking to collaborate on ...

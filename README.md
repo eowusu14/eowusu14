@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emmanuel Owusu
 - 👀 I’m interested in Geospatial Development
 - 🌱 I’m currently learning Leaflet Js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on WebGIS Development
 - 📫 How to reach me: owusuboateng149@gmail.com
 
 <!---

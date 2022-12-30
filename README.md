@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emmanuel Owusu
+- 👋 Hi, I’m Owusu
 -  a Geomatic Engineering Student
 - 👀 I’m interested in Data and Geospatial Development
 - 📫 How to reach me: owusuboateng149@gmail.com

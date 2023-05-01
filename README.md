@@ -1,5 +1,5 @@
 
-<p align="center"> ## Hi ✋ I am Emmanuel Owusu </p>
+                                                     ## Hi ✋ I am Emmanuel Owusu 
 
 ** I have a strong interest in Geographic Information Systems (GIS) and how they can be utilized to enhance the daily lives of individuals and communities. 	**
 
